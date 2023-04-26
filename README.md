@@ -36,3 +36,7 @@ Installation
 `cd YT-SCRAPER`
 
 `python ytscraper.py`
+
+If an Error Appears
+----
+Try it many times until you can
